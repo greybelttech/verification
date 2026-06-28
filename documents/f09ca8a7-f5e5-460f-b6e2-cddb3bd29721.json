@@ -1,0 +1,16 @@
+{
+  "brand": "Grey Belt Tech",
+  "title": "Family Scam Safety Kit",
+  "document_slug": "family-scam-safety-kit",
+  "document_id": "f09ca8a7-f5e5-460f-b6e2-cddb3bd29721",
+  "version": "v1.0",
+  "published": "2026-06-27",
+  "verify_url": "https://www.greybelttech.com/verify/f09ca8a7-f5e5-460f-b6e2-cddb3bd29721",
+  "manifest_file": "f09ca8a7-f5e5-460f-b6e2-cddb3bd29721.json",
+  "manifest_path": "documents/f09ca8a7-f5e5-460f-b6e2-cddb3bd29721.json",
+  "file_name": "Grey-Belt-Tech-Family-Scam-Safety-Kit.pdf",
+  "sha256": "6f66e045bcc67eb5f999dd6381c7b116108001d3e10fb1d8893b03343bfb0786",
+  "bytes": 6458264,
+  "generated_at": "2026-06-28T02:29:01.151261+00:00",
+  "source_note": "Publish this JSON from an independent GitHub repo or Gist for verification."
+}
