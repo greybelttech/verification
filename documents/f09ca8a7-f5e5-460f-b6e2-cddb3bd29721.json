@@ -1,0 +1,16 @@
+{
+  "brand": "Grey Belt Tech",
+  "title": "Anti-Scam Family Kit",
+  "document_slug": "anti-scam-family-kit",
+  "document_id": "f09ca8a7-f5e5-460f-b6e2-cddb3bd29721",
+  "version": "v1.1",
+  "published": "2026-06-29",
+  "verify_url": "https://www.greybelttech.com/verify/f09ca8a7-f5e5-460f-b6e2-cddb3bd29721",
+  "manifest_file": "f09ca8a7-f5e5-460f-b6e2-cddb3bd29721.json",
+  "manifest_path": "documents/f09ca8a7-f5e5-460f-b6e2-cddb3bd29721.json",
+  "file_name": "Grey-Belt-Tech-Anti-Scam-Family-Kit.pdf",
+  "sha256": "8bb4d143d0b45b6a2dc8cbc97e682a348e0062a0d1ec4a0f8932a5506809fbe1",
+  "bytes": 6458265,
+  "generated_at": "2026-06-29T02:58:29.054251+00:00",
+  "source_note": "Publish this JSON from an independent GitHub repo or Gist for verification."
+}
